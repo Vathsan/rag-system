@@ -1,0 +1,1 @@
+Stored 9 documents in vector database

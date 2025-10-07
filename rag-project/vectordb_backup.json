@@ -1,0 +1,15 @@
+{
+  "documents": [
+    "In machine learning, it is common to have to manage very large collections of files, meaning hundreds of thousands or more",
+    "This page covers options to scale out traditional machine learning methods to very large datasets",
+    "You cannot access a cloud without first having a cloud project",
+    "Below there are instructions on starting a Windows VM or a Linux VM"
+  ],
+  "ids": [
+    "doc_1",
+    "doc_2",
+    "doc_3",
+    "doc_4"
+  ],
+  "count": 4
+}
